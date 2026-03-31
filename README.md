@@ -46,11 +46,11 @@ The project followed a structured data analysis workflow:
 
 ## Key Insights
 
-- ☀️ **Morning generates the highest revenue**
-- ☕ **Coffee and Tea dominate product sales**
-- 🏬 **Store performance is relatively balanced**
-- 📈 **Revenue shows an upward trend over time**
-- 📦 Some product categories contribute minimal revenue → potential optimization opportunity
+- **Morning generates the highest revenue**
+- **Coffee and Tea dominate product sales**
+- **Store performance is relatively balanced**
+- **Revenue shows an upward trend over time**
+- Some product categories contribute minimal revenue → potential optimization opportunity
 
 ---
 
